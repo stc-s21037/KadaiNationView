@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         LvMenu.setOnItemClickListener(new ListItemClickListener());
 
     }
-    
+
 
     private class ListItemClickListener implements AdapterView.OnItemClickListener {
 
